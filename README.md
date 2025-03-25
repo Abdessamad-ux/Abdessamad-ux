@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdessamad-ux
 - 👀 I’m interested in Coding - Networking
-- 🌱 I’m currently learning To code + Cyber Secuirty Basics
+- 🌱 I’m currently learning Web development + Cyber Secuirty Basics
 - 💞️ I’m looking to collaborate on Web developement Projects
 - 📫 How to reach me : contact.abdessamade@gmail.com
 - 😄 Pronouns: Abdessamad-ux
